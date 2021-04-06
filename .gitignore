@@ -1,0 +1,8 @@
+*.csv
+*.json
+*.xls
+*.xlsx
+*.jl
+*.html
+*.DS_Store
+
